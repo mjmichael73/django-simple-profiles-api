@@ -13,3 +13,4 @@ Commands to run project:
     - python manage.py createsuperuser
     - python manage.py runserver
     - On your browser go to : 127.0.0.1:8000
+    - Test rest apis ! 
